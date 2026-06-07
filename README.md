@@ -1,5 +1,12 @@
 # 💫 About Me:
-I’m a Computer Science Engineering student passionate about innovation, creative problem-solving, and impactful technology.<br><br>🔧 Currently exploring Python, Machine Learning, and Cybersecurity — driven by curiosity and a desire to build solutions that matter.<br>💡 I enjoy turning ideas into reality, learning from challenges, and contributing to projects that make a difference.
+Frontend Developer | B.Tech Student
+
+Building responsive and modern web applications using HTML, CSS, JavaScript, Bootstrap, and React.
+
+Developed and deployed a real website for a college club organization.
+
+Currently focused on improving frontend engineering skills and building production-ready projects.
+
 
 
 ## 🌐 Socials:
